@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!--가이드라인-->
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/prefixGuideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.35"
+        />
+
+    <!--이름-->
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="이름"
+        style="@style/Title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/nameValueTextView"
+        android:layout_height="wrap_content"
+        style="@style/value"
+        android:text="김정태"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@id/nameTextView"
+        />
+
+    <!--생년월일-->
+    <TextView
+        android:id="@+id/birthTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="생년월일"
+        style="@style/Title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/nameTextView"
+        />
+
+    <TextView
+        android:id="@+id/birthValueTextView"
+        android:layout_height="wrap_content"
+        android:text="1990-08-08"
+        style="@style/value"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@id/birthTextView"
+        />
+
+    <!--혈액형-->
+    <TextView
+        android:id="@+id/bloodTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="혈액형"
+        style="@style/Title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/birthTextView"
+        />
+
+    <TextView
+        android:id="@+id/bloodValueTextView"
+        android:layout_height="wrap_content"
+        android:text="A"
+        style="@style/value"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@id/bloodTextView"
+        />
+
+    <!--비상 연락처-->
+    <TextView
+        android:id="@+id/phoneBookTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="비상 연락처"
+        style="@style/Title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bloodTextView"
+        />
+
+    <TextView
+        android:id="@+id/phoneBookValueTextView"
+        android:layout_height="wrap_content"
+        android:text="010-1234-1234"
+        style="@style/value"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@id/phoneBookTextView"
+        />
+
+    <!--주의사항-->
+    <TextView
+        android:id="@+id/warningTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="주의사항"
+        style="@style/Title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/phoneBookTextView"
+        />
+
+    <TextView
+        android:id="@+id/warningValueTextView"
+        android:layout_height="wrap_content"
+        android:text="조심하세요"
+        style="@style/value"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@id/warningTextView"
+        />
+
+    <Button
+        android:id="@+id/goInputActivityButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_margin="36dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+         />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
