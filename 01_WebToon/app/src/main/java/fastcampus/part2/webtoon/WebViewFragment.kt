@@ -32,13 +32,20 @@ class WebViewFragment : Fragment() {
         Log.d(TAG, "onViewCreated")
 
         // 2. WebViewClient를 사용해야함
-        binding.webView.webViewClient = WebViewClient()
+        binding.webView.webViewClient = WebtoonWebViewClient(binding.progressBar)
 
         binding.webView.settings.javaScriptEnabled = true
 
         // 1. loadUrl만으로 설정한 URL로 webpage가 load되지 않음
-        binding.webView.loadUrl("https://google.com")
+        //binding.webView.loadUrl("https://comic.naver.com/webtoon/detail?titleId=758037&no=187&week=mon")
+        binding.webView.loadUrl("https://comic.naver.com/")
     }
 
+    fun canGoBack() : Boolean {
+        return binding.webView.canGoBack()
+    }
+    fun goBack() {
+        binding.webView.goBack()
+    }
 
 }

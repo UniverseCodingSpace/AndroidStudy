@@ -1,9 +1,11 @@
 package fastcampus.part2.webtoon
 
 import android.os.Bundle
+import android.util.Log
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.activity.ComponentActivity
+import androidx.activity.OnBackPressedCallback
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -39,6 +41,27 @@ class MainActivity : AppCompatActivity() {
                 commit()
             }
         }
+
+        onBackPressedDispatcher.addCallback(this,
+            object: OnBackPressedCallback(true) {
+                override fun handleOnBackPressed() {
+                    Log.d("Todo", "Nothing")
+                    val currentFragment = supportFragmentManager.fragments[0]
+                    if(currentFragment is WebViewFragment) {
+                        if(currentFragment.canGoBack()) {
+                            currentFragment.goBack()
+                        }else {
+                            isEnabled = false
+                            onBackPressedDispatcher.onBackPressed()
+                        }
+                    } else {
+                        isEnabled = false
+                        onBackPressedDispatcher.onBackPressed()
+                    }
+                }
+            })
     }
+
+
 }
 
