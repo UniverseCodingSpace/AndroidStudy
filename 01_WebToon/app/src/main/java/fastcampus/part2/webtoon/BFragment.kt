@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment
 import fastcampus.part2.webtoon.databinding.FragmentSecondBinding
 
 class BFragment : Fragment() {
-    private lateinit var binding : FragmentSecondBinding
+    private lateinit var binding: FragmentSecondBinding
     private val TAG = "BFragment"
     override fun onCreateView(
         inflater: LayoutInflater,

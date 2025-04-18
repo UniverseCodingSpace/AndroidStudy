@@ -7,32 +7,21 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <FrameLayout
-        android:id="@+id/fragmentContainer"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        androidx:layout_constraintStart_toStartOf="parent"
-        androidx:layout_constraintEnd_toEndOf="parent"
-        androidx:layout_constraintTop_toTopOf="parent"
-        androidx:layout_constraintBottom_toTopOf="@id/button1"
-        />
-
-    <Button
-        android:id="@+id/button1"
-        android:text="AFragment"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        androidx:layout_constraintStart_toStartOf="parent"
-        androidx:layout_constraintBottom_toBottomOf="parent"
-        />
-
-    <Button
-        android:id="@+id/button2"
-        android:text="BFragment"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        androidx:layout_constraintStart_toEndOf="@id/button1"
-        androidx:layout_constraintBottom_toBottomOf="parent"
-        />
+   <com.google.android.material.tabs.TabLayout
+       android:id="@+id/tabLayout"
+       android:layout_width="0dp"
+       android:layout_height="40dp"
+       androidx:layout_constraintStart_toStartOf="parent"
+       androidx:layout_constraintEnd_toEndOf="parent"
+       androidx:layout_constraintTop_toTopOf="parent"
+       />
+   <androidx.viewpager2.widget.ViewPager2
+       android:id="@+id/viewPager2"
+       android:layout_width="0dp"
+       android:layout_height="0dp"
+       androidx:layout_constraintTop_toBottomOf="@id/tabLayout"
+       androidx:layout_constraintBottom_toBottomOf="parent"
+       androidx:layout_constraintStart_toStartOf="parent"
+       androidx:layout_constraintEnd_toEndOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

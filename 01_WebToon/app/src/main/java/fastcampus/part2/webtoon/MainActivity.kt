@@ -1,9 +1,13 @@
 package fastcampus.part2.webtoon
 
+import android.content.res.ColorStateList
+import android.graphics.Color
 import android.os.Bundle
 import android.util.Log
+import android.view.Gravity
 import android.webkit.WebView
 import android.webkit.WebViewClient
+import android.widget.TextView
 import androidx.activity.ComponentActivity
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.compose.setContent
@@ -16,6 +20,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.google.android.material.tabs.TabLayoutMediator
 import fastcampus.part2.webtoon.databinding.ActivityMainBinding
 import fastcampus.part2.webtoon.ui.theme.WebToonTheme
 
@@ -27,40 +32,42 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.viewPager2.adapter = ViewPagerAdapter(this)
 
-        binding.button1.setOnClickListener {
-            supportFragmentManager.beginTransaction().apply {
-                replace(R.id.fragmentContainer, WebViewFragment())
-                commit()
+        TabLayoutMediator(binding.tabLayout, binding.viewPager2) { tap, position ->
+            run {
+                val textView = TextView(this@MainActivity)
+                textView.text = "position $position"
+                textView.gravity= Gravity.CENTER
+                tap.customView = textView
+//                tap.text = "position: $position"
             }
-        }
+        }.attach()
 
-        binding.button2.setOnClickListener {
-            supportFragmentManager.beginTransaction().apply {
-                replace(R.id.fragmentContainer, BFragment())
-                commit()
-            }
-        }
-
-        onBackPressedDispatcher.addCallback(this,
-            object: OnBackPressedCallback(true) {
-                override fun handleOnBackPressed() {
-                    Log.d("Todo", "Nothing")
-                    val currentFragment = supportFragmentManager.fragments[0]
-                    if(currentFragment is WebViewFragment) {
-                        if(currentFragment.canGoBack()) {
-                            currentFragment.goBack()
-                        }else {
-                            isEnabled = false
-                            onBackPressedDispatcher.onBackPressed()
-                        }
-                    } else {
+        onBackPressedDispatcher.addCallback(object: OnBackPressedCallback(true){
+            override fun handleOnBackPressed() {
+                val currentFragment = supportFragmentManager.fragments[binding.viewPager2.currentItem]
+                if(currentFragment is WebViewFragment) {
+                    if(currentFragment.canGoBack()) {
+                        currentFragment.goBack()
+                    }else {
                         isEnabled = false
                         onBackPressedDispatcher.onBackPressed()
                     }
+                } else {
+                    isEnabled = false
+                    onBackPressedDispatcher.onBackPressed()
                 }
-            })
+            }
+
+        })
+
+
+
+
     }
+
+
 
 
 }
