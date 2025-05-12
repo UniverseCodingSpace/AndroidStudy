@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa7c632b-2374-4ec5-b4a5-729b4053c04c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../00_number_increaser_with_darkmode/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../00_number_increaser_with_darkmode/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/migrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/migrations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/androidTest/java/fastcampus/part2/webtoon/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/androidTest/java/fastcampus/part2/webtoon/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/BFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ViewPagerAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ViewPagerAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/WebViewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/WebViewFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/WebtoonWebViewClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/WebtoonWebViewClient.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/java/fastcampus/part2/webtoon/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/layout/fragment_webview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/layout/fragment_webview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/app/src/test/java/fastcampus/part2/webtoon/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/app/src/test/java/fastcampus/part2/webtoon/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WebToon/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WebToon/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/migrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/migrations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/androidTest/java/fastcampus/part0/emergencyinfo/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/androidTest/java/fastcampus/part0/emergencyinfo/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/Const.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/Const.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/EditActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/EditActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/java/fastcampus/part0/emergencyinfo/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_call_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_call_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_edit_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_edit_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_edit_calendar_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_edit_calendar_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_save_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/baseline_save_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/layout/activity_edit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/layout/activity_edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/app/src/test/java/fastcampus/part0/emergencyinfo/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/app/src/test/java/fastcampus/part0/emergencyinfo/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmergencyInfo/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../EmergencyInfo/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2x07IFiyJn7OeNLDthWSqiGNhDM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="ComposeHelloWorld.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="fastcampus.part2.compose_hello_world.MainActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.MainActivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa7c632b-2374-4ec5-b4a5-729b4053c04c" name="Changes" comment="" />
+      <created>1747063057284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747063057284</updated>
+    </task>
+    <servers />
+  </component>
+</project>

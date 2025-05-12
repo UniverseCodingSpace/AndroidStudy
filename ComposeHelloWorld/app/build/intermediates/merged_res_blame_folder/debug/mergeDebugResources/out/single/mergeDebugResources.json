@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/xml_backup_rules.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/drawable_baseline_monitor_heart_24.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/drawable/baseline_monitor_heart_24.xml"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "fastcampus.part2.compose_hello_world.app-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "fastcampus.part2.compose_hello_world.app-main-50:/xml/data_extraction_rules.xml"
+    }
+]

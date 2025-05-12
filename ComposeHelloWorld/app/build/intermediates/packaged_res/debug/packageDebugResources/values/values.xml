@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ComposeHelloWorld</string>
+    <string name="title_activity_box">BoxActivity</string>
+    <string name="title_activity_box_with_constraints">BoxWithConstraintsActivity</string>
+    <string name="title_activity_column">Column</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_network_image">NetworkImageActivity</string>
+    <string name="title_activity_row">Row</string>
+    <string name="title_activity_surface">SurfaceActivity</string>
+    <style name="Theme.ComposeHelloWorld" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
