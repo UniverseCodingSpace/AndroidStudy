@@ -1,6 +1,7 @@
 package fastcampus.part2.webtoon
 
 import android.graphics.Bitmap
+import android.util.Log
 import android.webkit.WebResourceError
 import android.webkit.WebResourceRequest
 import android.webkit.WebView
@@ -8,14 +9,24 @@ import android.webkit.WebViewClient
 import android.widget.ProgressBar
 import androidx.core.view.isVisible
 
-class WebtoonWebViewClient(private val progressBar: ProgressBar) : WebViewClient(){
+class WebtoonWebViewClient(
+    private val progressBar: ProgressBar,
+    private val saveData: (String) -> Unit
+) : WebViewClient() {
 
-//    override fun shouldOverrideUrlLoading(view: WebView?, request: WebResourceRequest?): Boolean {
-//        if (request != null && request.url.toString().contains("comic.naver.com"))
-//            return false
-//        return true
-//
-//    }
+    override fun shouldOverrideUrlLoading(view: WebView?, request: WebResourceRequest?): Boolean {
+        if (request != null && request.url.toString()
+                .contains("https://m.comic.naver.com/webtoon/detail")
+        ) {
+            saveData(request.url.toString())
+            Log.d("pageSave", "Saved: ${request.url.toString()}")
+
+        } else {
+            Log.d("pageSave", "not Saved: ${request?.url.toString()}")
+        }
+        return super.shouldOverrideUrlLoading(view, request)
+    }
+
     override fun onPageFinished(view: WebView?, url: String?) {
         super.onPageFinished(view, url)
 

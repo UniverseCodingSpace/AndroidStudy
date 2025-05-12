@@ -38,19 +38,20 @@ class MainActivity : AppCompatActivity() {
             run {
                 val textView = TextView(this@MainActivity)
                 textView.text = "position $position"
-                textView.gravity= Gravity.CENTER
+                textView.gravity = Gravity.CENTER
                 tap.customView = textView
 //                tap.text = "position: $position"
             }
         }.attach()
 
-        onBackPressedDispatcher.addCallback(object: OnBackPressedCallback(true){
+        onBackPressedDispatcher.addCallback(object : OnBackPressedCallback(true) {
             override fun handleOnBackPressed() {
-                val currentFragment = supportFragmentManager.fragments[binding.viewPager2.currentItem]
-                if(currentFragment is WebViewFragment) {
-                    if(currentFragment.canGoBack()) {
+                val currentFragment =
+                    supportFragmentManager.fragments[binding.viewPager2.currentItem]
+                if (currentFragment is WebViewFragment) {
+                    if (currentFragment.canGoBack()) {
                         currentFragment.goBack()
-                    }else {
+                    } else {
                         isEnabled = false
                         onBackPressedDispatcher.onBackPressed()
                     }
@@ -63,11 +64,7 @@ class MainActivity : AppCompatActivity() {
         })
 
 
-
-
     }
-
-
 
 
 }

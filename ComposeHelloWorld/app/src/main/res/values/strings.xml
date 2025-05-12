@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeHelloWorld</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_surface">SurfaceActivity</string>
+    <string name="title_activity_box">BoxActivity</string>
+    <string name="title_activity_row">Row</string>
+    <string name="title_activity_column">Column</string>
+    <string name="title_activity_box_with_constraints">BoxWithConstraintsActivity</string>
+    <string name="title_activity_network_image">NetworkImageActivity</string>
+</resources>
