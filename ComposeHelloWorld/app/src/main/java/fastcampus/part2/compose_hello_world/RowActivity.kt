@@ -43,12 +43,13 @@ fun RowEX() {
         modifier = Modifier.height(40.dp).width(200.dp),
         verticalAlignment = Alignment.Bottom
     ){
-        Text("1st")
+        Text("1st", modifier = Modifier.align(Alignment.Top))
 
         val icon = painterResource(id = R.drawable.baseline_monitor_heart_24)
         Icon(
             painter = icon,
             contentDescription = "add",
+            modifier = Modifier.align(Alignment.CenterVertically)
         )
         Text("3rd")
     }

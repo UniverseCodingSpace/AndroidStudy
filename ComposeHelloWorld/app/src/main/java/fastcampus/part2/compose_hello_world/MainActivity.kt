@@ -217,6 +217,23 @@ fun ButtonExample(name: String, modifier: Modifier = Modifier, onButtonClicked: 
             }
         }
 
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(16.dp),
+            horizontalArrangement = Arrangement.spacedBy(20.dp)
+        ){
+            Button(
+                modifier = Modifier.height(100.dp),
+                onClick = {
+                    val intent = Intent(context, CheckBoxActivity::class.java)
+                    context.startActivity(intent)
+                }
+            ) {
+                Text("CheckBox")
+            }
+        }
+
     }
 
 

@@ -35,10 +35,10 @@ class ColumnActivity : ComponentActivity() {
 fun ColumnEX() {
     Column(
         horizontalAlignment = Alignment.End,
-        verticalArrangement = Arrangement.Center,
+        verticalArrangement = Arrangement.Top,
         modifier = Modifier.size(100.dp)
     ){
-        Text("1st", modifier = Modifier.align(Alignment.CenterHorizontally))
+        Text("1st", modifier = Modifier.align(Alignment.Start))
         Text("2nd")
         Text("3rd", modifier = Modifier.align(Alignment.Start))
     }
